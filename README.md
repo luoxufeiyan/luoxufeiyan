@@ -6,7 +6,7 @@ Whom have I in heaven but thee? and there is none upon earth that I desire besid
 
 ## Links:
 
-🔑 PGP Key: [EFD913DE2E8DD52F](https://keybase.io/lxfy/pgp_keys.asc)
+PGP Key: [EFD913DE2E8DD52F](https://keybase.io/lxfy/pgp_keys.asc)
 
 Blog[zh]: [https://www.luoxufeiyan.com/](https://www.luoxufeiyan.com/)
 

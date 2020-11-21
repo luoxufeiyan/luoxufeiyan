@@ -6,11 +6,13 @@ Whom have I in heaven but thee? and there is none upon earth that I desire besid
 
 ## Links:
 
-Blog[zh]:[https://www.luoxufeiyan.com/](https://www.luoxufeiyan.com/)
+🔑 PGP Key: [EFD913DE2E8DD52F](https://keybase.io/lxfy/pgp_keys.asc)
 
-Blog[en]:[https://www.luoxufeiyan.com/tag/eng/](https://www.luoxufeiyan.com/tag/eng/)
+Blog[zh]: [https://www.luoxufeiyan.com/](https://www.luoxufeiyan.com/)
 
-Wiki[zh]:[https://wiki.luoxufeiyan.com/](https://wiki.luoxufeiyan.com/)
+Blog[en]: [https://www.luoxufeiyan.com/tag/eng/](https://www.luoxufeiyan.com/tag/eng/)
+
+Wiki[zh]: [https://wiki.luoxufeiyan.com/](https://wiki.luoxufeiyan.com/)
 
 <!--
 **luoxufeiyan/luoxufeiyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

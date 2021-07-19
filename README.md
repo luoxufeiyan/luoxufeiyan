@@ -1,15 +1,19 @@
 # Hi there 👋
 
+- 🔭 I’m currently living and working in Sydney.
+- 🌱 I’m currently learning cross platform app development frameworks.
+- 💬 My LeetCode link: [https://tinyurl.com/leetcodex](https://tinyurl.com/leetcodex)
+- 📫 How to reach me: [https://www.luoxufeiyan.com/about/](https://www.luoxufeiyan.com/about/) 
 
-## Links:
+## Links
 
-PGP Key: [EFD913DE2E8DD52F](https://keybase.io/lxfy/pgp_keys.asc)
+- 🔐 PGP Key: [EFD913DE2E8DD52F](https://keybase.io/lxfy/pgp_keys.asc)
 
-Blog[zh]: [https://www.luoxufeiyan.com/](https://www.luoxufeiyan.com/)
+- 🏖 Life Blog[zh]: [https://www.luoxufeiyan.com/](https://www.luoxufeiyan.com/)
 
-Blog[en]: [https://www.luoxufeiyan.com/tag/eng/](https://www.luoxufeiyan.com/tag/eng/)
+- 🧑‍💻 Tech Blog[en]: [https://www.luoxufeiyan.com/tag/eng/](https://www.luoxufeiyan.com/tag/eng/)
 
-Wiki[zh]: [https://wiki.luoxufeiyan.com/](https://wiki.luoxufeiyan.com/)
+- 📝 Wiki[zh]: [https://wiki.luoxufeiyan.com/](https://wiki.luoxufeiyan.com/)
 
 <!--
 **luoxufeiyan/luoxufeiyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

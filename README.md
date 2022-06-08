@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently living and working in Sydney.
 - 🌱 I’m currently learning cross platform app development frameworks.
-- 💬 My LeetCode link: [https://tinyurl.com/leetcodex](https://tinyurl.com/leetcodex)
+- 💬 My LeetCode link: [https://bit.ly/3zmnms5](https://bit.ly/3zmnms5)
 - 📫 How to reach me: [https://www.luoxufeiyan.com/about/](https://www.luoxufeiyan.com/about/) 
 
 ## Links
